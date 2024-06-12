@@ -1,0 +1,8 @@
+C:\Users\mikko\source\repos\GrowingBeard\GrowingBeard\obj\Debug\GrowingBeard.csprojAssemblyReference.cache
+F:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\GrowBeard\bin\Win64_Shipping_Client\GrowingBeard.dll
+F:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\GrowBeard\bin\Win64_Shipping_Client\GrowingBeard.pdb
+C:\Users\mikko\source\repos\GrowingBeard\GrowingBeard\obj\Debug\GrowingBeard.csproj.CopyComplete
+C:\Users\mikko\source\repos\GrowingBeard\GrowingBeard\obj\Debug\GrowingBeard.dll
+C:\Users\mikko\source\repos\GrowingBeard\GrowingBeard\obj\Debug\GrowingBeard.pdb
+C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\GrowBeard\bin\Win64_Shipping_Client\GrowingBeard.dll
+C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\GrowBeard\bin\Win64_Shipping_Client\GrowingBeard.pdb
